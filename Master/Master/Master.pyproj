@@ -40,6 +40,9 @@
     <Folder Include="Master\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Master\static\homeicon.png" />
+    <Content Include="Master\templates\bedroom.html" />
+    <Content Include="Master\templates\home.html" />
     <Content Include="requirements.txt" />
     <Content Include="Master\static\content\bootstrap.css" />
     <Content Include="Master\static\content\bootstrap.min.css" />
